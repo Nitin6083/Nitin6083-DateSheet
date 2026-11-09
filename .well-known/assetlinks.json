@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.datesheetlive.appv2",
+        "sha256_cert_fingerprints": ["22:F6:02:9D:56:31:3E:6E:F0:25:A7:EB:45:38:82:99:3B:40:FC:FA:C3:29:0B:43:FE:04:E5:BA:47:D9:A9:EE"]
+      }
+    }]
